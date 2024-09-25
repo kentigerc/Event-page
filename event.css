@@ -1,0 +1,103 @@
+header{
+  text-align: center;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  border: 3px solid black;
+  padding: 5px;
+
+}
+header h1{
+  font-size: 45px;
+  color: blue;
+}
+header p{
+  color: chartreuse;
+}
+#topnav{
+  background-color: fuchsia;
+  margin-top: 5px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+#topnav ul{
+  text-align: center;
+  
+}
+#topnav ul li{
+  list-style-type: none;
+  display: inline;
+
+}
+#topnav ul li a{
+  text-decoration: none;
+  padding: 10px;
+  margin: 0px 5px;
+  text-align: center;
+  
+  
+}
+#topnav ul li a:hover{
+  color: aqua;
+}
+#content h1{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+
+}
+#content p{
+  text-align: left;
+  margin: 0px auto;
+  color:brown;
+  width: 415px;
+}
+#content h1, h2, h3, h4, h5, h6{
+  text-align: center;
+}
+
+#content img{
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+
+}
+#content ul{
+  text-align: center;
+}
+#content ul li{
+  list-style-type: none;
+}
+#pic1{
+  padding-bottom: 5px;
+}
+footer{
+  border-top: 10px solid;
+  margin: 415px;
+  margin: 0px auto;
+}
+footer p{
+  float: right;
+  padding-top: 5px;
+  padding-right: 0px;
+  padding-bottom: 5px;
+  padding-left: 0px;
+  margin:0px
+}
+.footernav{
+  padding-top: 5px;
+  padding-left: 0px;
+  float: left;
+}
+.footernav ul{
+  margin: 0px;
+  padding: 0px;
+
+}
+.footernav ul li{
+  list-style-type: none;
+  display: inline;
+}
+.footernav ul li a:link, .footernav ul li a:visited{
+  text-decoration: none;
+
+}
+
+
